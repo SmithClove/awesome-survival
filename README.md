@@ -385,6 +385,8 @@ A list of awesome survival/survivors books/guides
 
 [Reticulum](https://github.com/markqvist/Reticulum) - The vision is to allow anyone to operate their own sovereign communication networks. [reticulum.network](https://reticulum.network/)
 
+[RNode](https://unsigned.io/rnode/) - open, free and unrestricted digital radio transceiver
+
 [Beartooth](https://beartooth.com/products/beartooth-mk-ii) - ATAK Mesh Networking Radios
 
 
